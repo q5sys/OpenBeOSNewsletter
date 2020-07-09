@@ -1,0 +1,2 @@
+# OpenBeOSNewsletter
+Legacy Newsletters
